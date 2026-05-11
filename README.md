@@ -4,6 +4,14 @@
 
 菜鸡在路上...
 
+> **更新说明**
+>
+> 本文档最新更新内容由 AI 模型 **MiniMax-M2.7** 辅助编写。
+>
+> 文档仅用于**归档知识、形成知识树**，内容不保证正确性，请勿直接用于实际安全测试。所有技术操作请在合法授权范围内进行。
+
+---
+
 ## 0x00 躲避检测
 
 ### 1 隐藏
@@ -30,7 +38,11 @@
 
 ### 1 web服务
 
+\[1] [Web服务入口突破](https://github.com/aplyc1a/blogs/blob/master/入口突破/Web服务入口突破.md)
+
 ### 2 钓鱼邮件
+
+\[1] [钓鱼邮件攻击](https://github.com/aplyc1a/blogs/blob/master/入口突破/钓鱼邮件攻击.md)
 
 ### 3 字典
 
@@ -62,7 +74,11 @@
 
 #### 1.2 漏洞提权
 
+\[1] [Linux漏洞提权](https://github.com/aplyc1a/blogs/blob/master/权限提升/Linux提权/漏洞提权/Linux漏洞提权.md)
+
 ### 2 Windows提权
+
+\[1] [Windows提权](https://github.com/aplyc1a/blogs/blob/master/权限提升/Windows提权.md)
 
 ## 0x04 内网与后渗透
 
@@ -76,23 +92,29 @@
 
 ### 2 通道构建
 
+\[1] [通道构建](https://github.com/aplyc1a/blogs/blob/master/内网安全与后渗透/通道构建.md)
+
 ### 3 扫描探测
+
+\[1] [扫描探测](https://github.com/aplyc1a/blogs/blob/master/内网安全与后渗透/扫描探测.md)
 
 ### 4 权限提升
 
 ### 5 横向移动
 
+\[1] [横向移动](https://github.com/aplyc1a/blogs/blob/master/内网安全与后渗透/横向移动.md)
+
 ### 6 数据回传
 
 ### 7 接管域控
+
+\[1] [接管域控](https://github.com/aplyc1a/blogs/blob/master/内网安全与后渗透/接管域控.md)
 
 ### 8 系统破坏
 
 ## 0x05 持久控制
 
 ### 1 Linux
-
-#### 1.1 挖矿
 
 \[1] [门罗挖矿技术研究](https://github.com/aplyc1a/blogs/blob/master/持久控制/Linux/monero挖矿研究.md)
 
@@ -155,3 +177,11 @@
 \[2]  [隐写术](https://github.com/aplyc1a/blogs/blob/master/审查对抗/反审查技术/隐写术.md)
 
 ### 2 司法审查
+
+\[1] [司法审查](https://github.com/aplyc1a/blogs/blob/master/审查对抗/司法审查.md)
+
+## 0x08 持久控制 - Windows
+
+\[1] [Windows后门](https://github.com/aplyc1a/blogs/blob/master/持久控制/Windows后门.md)
+
+\[2] [勒索软件](https://github.com/aplyc1a/blogs/blob/master/持久控制/勒索软件.md)
